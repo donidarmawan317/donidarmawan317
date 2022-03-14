@@ -1,7 +1,9 @@
-### Hi there 👋
+<h3 title="hehehe"> Hey 👋, I'm Doni Darmawan!</h3>
 
-<!--
-**donidarmawan317/donidarmawan317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/doni-darmawan-2a4892221/">
+  <img align="left" alt="Doni's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
