@@ -4,9 +4,9 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m a student at Jambi University majoring in information system.
-- 🌱 I’m currently exploring Python. 
-- 🤔 My interest is in Machine Learning,Artificial Intelligence and cybersecurity.
+- 👨🏽‍💻 I’m a Fresh Graduate from Jambi University majoring in information system.
+- 🌱 I’m currently exploring Python and ReactJS. 
+- 🤔 My interest is in Machine Learning ,Artificial Intelligence and cybersecurity.
 - 💬 Ask me about anything, I love to answer!
 
 **image source**
